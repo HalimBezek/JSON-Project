@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Products>
+        <Product BestBefore="2014-08-25">
+            <Name>Dragon's beard candy</Name>
+            <Price>5.01</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-12-01">
+            <Name>La Fama</Name>
+            <Price>6.94</Price>
+            <Currency>USD</Currency>
+        </Product>
+        <Product BestBefore="2014-04-03">
+            <Name>Lindt Chocolate Bar</Name>
+            <Price>7.54</Price>
+            <Currency>AUD</Currency>
+        </Product>
+        <Product BestBefore="2014-01-10">
+            <Name>Lulu's Chocolate Bar</Name>
+            <Price>2.09</Price>
+            <Currency>HKD</Currency>
+        </Product>
+        <Product BestBefore="2014-12-28">
+            <Name>Maracaibo 65</Name>
+            <Price>6.93</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-11-15">
+            <Name>M-Azing</Name>
+            <Price>2.34</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-02-11">
+            <Name>Milk Shake</Name>
+            <Price>5.76</Price>
+            <Currency>USD</Currency>
+        </Product>
+        <Product BestBefore="2014-05-10">
+            <Name>Mountain Bar</Name>
+            <Price>2.15</Price>
+            <Currency>HKD</Currency>
+        </Product>
+        <Product BestBefore="2014-03-20">
+            <Name>Mr. Big</Name>
+            <Price>6.11</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-05-23">
+            <Name>Mr. Goodbar</Name>
+            <Price>6.55</Price>
+            <Currency>USD</Currency>
+        </Product>
+        <Product BestBefore="2014-08-05">
+            <Name>Neapolitan Coconut Slice</Name>
+            <Price>3.86</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-05-06">
+            <Name>Nestle Crunch</Name>
+            <Price>4.86</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-06-26">
+            <Name>Nestle Milk Chocolate</Name>
+            <Price>4.14</Price>
+            <Currency>USD</Currency>
+        </Product>
+        <Product BestBefore="2015-01-23">
+            <Name>Nestle White</Name>
+            <Price>3.74</Price>
+            <Currency>HKD</Currency>
+        </Product>
+        <Product BestBefore="2014-03-23">
+            <Name>Nickel Lunch</Name>
+            <Price>3.22</Price>
+            <Currency></Currency>
+        </Product>
+        <Product BestBefore="2014-05-23">
+            <Name>Noisette</Name>
+            <Price>4.04</Price>
+            <Currency>HKD</Currency>
+        </Product>
+        <Product BestBefore="2014-05-01">
+            <Name>Nut Goodie</Name>
+            <Price>2.62</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-09-28">
+            <Name>Nut Lovers</Name>
+            <Price>7.07</Price>
+            <Currency>GBP</Currency>
+        </Product>
+        <Product BestBefore="2014-08-16">
+            <Name>Nutrageous</Name>
+            <Price>2.96</Price>
+            <Currency>GBP</Currency>
+        </Product>
+        <Product BestBefore="2014-07-12">
+            <Name>PayDay</Name>
+            <Price>2.71</Price>
+            <Currency>USD</Currency>
+        </Product>
+        <Product BestBefore="2015-01-06">
+            <Name>Old Faithful</Name>
+            <Price>4.48</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-02-15">
+            <Name>Reese's Crispy Crunchy Bar</Name>
+            <Price>5.21</Price>
+            <Currency>JPY</Currency>
+        </Product>
+        <Product BestBefore="2014-09-03">
+            <Name>Reese's Fast Break</Name>
+            <Price>2.32</Price>
+            <Currency>HKD</Currency>
+        </Product>
+        <Product BestBefore="2014-08-02">
+            <Name>Rocky Road</Name>
+            <Price>4.89</Price>
+            <Currency>HKD</Currency>
+        </Product>
+        <Product BestBefore="2014-02-06">
+            <Name>Sucré Artisan Chocolate Bar</Name>
+            <Price>5.19</Price>
+            <Currency>CHF</Currency>
+        </Product>
+        <Product BestBefore="2014-09-20">
+            <Name>Take 5</Name>
+            <Price>6.87</Price>
+            <Currency>GBP</Currency>
+        </Product>
+    </Products>
+</Response>

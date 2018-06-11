@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Products>
+        <Item>
+            <Id>7e33fa22-5d67-4dd5-a522-23e7d1e6643e</Id>
+            <Product BestBefore="29.12.2014">
+                <Name>Werther's Original</Name>
+                <Price>5.84</Price>
+                <Currency>CHF</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>333380c2-0576-4e0a-8a58-dbda6e5a1f62</Id>
+            <Product BestBefore="05.09.2014">
+                <Name>Coucougnette</Name>
+                <Price>6.96</Price>
+                <Currency>CHF</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>b99427e2-5009-45bb-bbc0-740e22dea954</Id>
+            <Product BestBefore="13.12.2014">
+                <Name>Gummi cola bottles</Name>
+                <Price>4.98</Price>
+                <Currency>HKD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>040a2594-fd44-4a25-9b13-0bf3dc7a1ba4</Id>
+            <Product BestBefore="24.10.2014">
+                <Name>Ayds</Name>
+                <Price>2.76</Price>
+                <Currency>HKD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>313542ca-d47e-4ba3-9dbe-82b94e4dee45</Id>
+            <Product BestBefore="">
+                <Name>Mounds</Name>
+                <Price>3.87</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>ef64625e-498f-4359-8e56-7f2cf277ba8a</Id>
+            <Product BestBefore="15.07.2014">
+                <Name>Kit Kat</Name>
+                <Price>6.06l</Price>
+                <Currency>CHF</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>f90b40dd-1661-4034-b3fc-de405696718d</Id>
+            <Product BestBefore="04.04.2014">
+                <Name>Snickers</Name>
+                <Price>6.68</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id></Id>
+            <Product BestBefore="08.10.2014">
+                <Name>Black Jacks</Name>
+                <Price>4.88</Price>
+                <Currency>GBP</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>7f97586c-ce16-486e-a35d-935dfa25cf81</Id>
+            <Product BestBefore="02.08.2014">
+                <Name>Candy Buttons</Name>
+                <Price>7.47</Price>
+                <Currency>CAD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>931afc4f-cbff-4499-b0bc-c796c9bc14e6</Id>
+            <Product BestBefore="20.01.2014">
+                <Name>Twizzlers</Name>
+                <Price>5.49</Price>
+                <Currency>CAD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>ec7d102a-700d-4542-804d-8d834b15255c</Id>
+            <Product BestBefore="30.03.2014">
+                <Name>Starburst</Name>
+                <Price>7.59</Price>
+                <Currency>JPY</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>13297b12-7a09-4680-9325-ad3a21b7a416</Id>
+            <Product BestBefore="22.05.2014">
+                <Name>Mars Bar</Name>
+                <Price>4.62</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>4f66f2f8-f470-4d09-929f-bc9022c89123</Id>
+            <Product BestBefore="29.07.2014">
+                <Name>Kinder Ueberraschung</Name>
+                <Price>6.07</Price>
+                <Currency>AUD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>ec9cc750-7374-46c4-91a6-8bcb2eba986a</Id>
+            <Product BestBefore="17.02.2014">
+                <Name>Bazooka Gum</Name>
+                <Price>2.78</Price>
+                <Currency>HKD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>8c883f73-ab89-4a32-979c-f17fba5e707e</Id>
+            <Product BestBefore="06.07.2014">
+                <Name>Bottle Caps</Name>
+                <Price>6.41</Price>
+                <Currency>CHF</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>b42bb3a1-a8fa-414a-a460-d6b1dc726a87</Id>
+            <Product BestBefore="09.03.2014">
+                <Name>Candy Necklace</Name>
+                <Price>6.66</Price>
+                <Currency>JPY</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>a1df25f8-0a25-47e4-b882-27de515df4cc</Id>
+            <Product BestBefore="20.09.2014">
+                <Name>Chiclets</Name>
+                <Price>5.70</Price>
+                <Currency></Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>7ac63a44-f67e-4017-8165-7919d196ae31</Id>
+            <Product BestBefore="27.01.2014">
+                <Name>DOTS</Name>
+                <Price>4.81</Price>
+                <Currency>CAD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>6b2d2294-f7b1-4c09-9312-2ee340966511</Id>
+            <Product BestBefore="04.02.2014">
+                <Name>Gushers</Name>
+                <Price>4.44</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>e659979d-4af6-4507-adff-b0f1e9e945bc</Id>
+            <Product BestBefore="17.05.2014">
+                <Name>Laffy Taffy</Name>
+                <Price>6.89</Price>
+                <Currency>AUD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>01697481-28f8-44fe-8967-9bf68ac0d853</Id>
+            <Product BestBefore="20.08.2014">
+                <Name>Oompas</Name>
+                <Price>4.10</Price>
+                <Currency>GBP</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>9ba9ca84-5980-43e3-9c49-deee62c6e8ff</Id>
+            <Product BestBefore="25.09.2014">
+                <Name></Name>
+                <Price>6.19</Price>
+                <Currency>CAD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>1acb2451-78b4-42c5-965a-e3acfd3594c9</Id>
+            <Product BestBefore="11.07.2014">
+                <Name>Werther's Original</Name>
+                <Price>7.65</Price>
+                <Currency>AUD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>30896a79-5bfa-42b7-acb3-7f1607278613</Id>
+            <Product BestBefore="08.05.2014">
+                <Name>Tiny Tarts</Name>
+                <Price>7.92</Price>
+                <Currency>HKD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>40c770d5-d19a-438e-9e49-9fee6c680f5d</Id>
+            <Product BestBefore="28.06.2014">
+                <Name>Tootsie Pop</Name>
+                <Price>6.15</Price>
+                <Currency>AUD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>c00354a9-cbbe-464c-8ec4-7c0d6f890ace</Id>
+            <Product BestBefore="17.01.2015">
+                <Name>5th Avenue</Name>
+                <Price>6.09</Price>
+                <Currency>AUD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>40d80c94-7360-4b53-950d-910a2f6bb8df</Id>
+            <Product BestBefore="18.12.2014">
+                <Name>Bounty</Name>
+                <Price>5.63</Price>
+                <Currency>CAD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>73da8f5d-d67a-4a74-ac74-db0f91d58d6c</Id>
+            <Product BestBefore="16.11.2014">
+                <Name>Cherry Cocktail</Name>
+                <Price>d</Price>
+                <Currency>HKD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>84606d04-d92c-4148-91cc-35f7cb598f16</Id>
+            <Product BestBefore="14.08.2014">
+                <Name>Dove Bar</Name>
+                <Price>6.16</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>1e48cc2a-d40c-4af4-b92d-a1426072d35b</Id>
+            <Product BestBefore="05.09.2014">
+                <Name>Godiva Chocolate Bar</Name>
+                <Price>3.15</Price>
+                <Currency>CHF</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>90754d9b-4d2e-4b9a-b05b-0e68aba055ed</Id>
+            <Product BestBefore="02.08.2014">
+                <Name>Idaho Spud</Name>
+                <Price>2.26</Price>
+                <Currency>GBP</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>457ce634-d3bd-4131-a27a-a55637f60ca0</Id>
+            <Product BestBefore="11.09.2014">
+                <Name>Lulu's Chocolate Bar</Name>
+                <Price>2.23</Price>
+                <Currency>CHF</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>dfd7d83c-f7a1-45f9-94ab-773c16a192fb</Id>
+            <Product BestBefore="29.12.2014">
+                <Name>Mountain Bar</Name>
+                <Price>5.42</Price>
+                <Currency>AUD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>bdc5edb6-380f-4acc-a4c2-0bc78a1a2fd3</Id>
+            <Product BestBefore="01.08.2014">
+                <Name>Nestle Crunch</Name>
+                <Price>4.08</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>d76f91c2-a340-4489-ac90-b409830dfad0</Id>
+            <Product BestBefore="23.04.2014">
+                <Name>Noisette</Name>
+                <Price>3.53</Price>
+                <Currency>JPY</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>1c98b790-633b-4b5b-a35d-fcaf8712e5b4</Id>
+            <Product BestBefore="29.06.2014">
+                <Name>PayDay</Name>
+                <Price>6.99</Price>
+                <Currency>USD</Currency>
+            </Product>
+        </Item>
+        <Item>
+            <Id>3264e853-ce21-4479-bcef-e295ad858789</Id>
+            <Product BestBefore="25.01.2015">
+                <Name>Rocky Road</Name>
+                <Price>2.30</Price>
+                <Currency>GBP</Currency>
+            </Product>
+        </Item>
+    </Products>
+</Response>
